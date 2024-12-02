@@ -1,7 +1,7 @@
 VITools: tools for conducting virtual imaging trials
 ====================================================
 
-Tools for running virtual imaging trials, including object oriented wrappers for the [XCIST CT Simulation framework](https://github.com/xcist)
+Tools for running virtual imaging trials, including object oriented wrappers for the `XCIST CT Simulation framework <https://github.com/xcist>`_
 
 .. image:: assets/VITools_class_diagram.png
         :width: 800
